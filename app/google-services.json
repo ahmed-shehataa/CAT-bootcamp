@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "111336153658",
+    "project_id": "cat-bootcamp",
+    "storage_bucket": "cat-bootcamp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:111336153658:android:18faa937b05e2ca3290b03",
+        "android_client_info": {
+          "package_name": "com.ashehata.catbootcamp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "111336153658-g1nc1dt07tr19p28l705ncan9uj1pvkq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHTfUUHOJ_B0g2sEmdHgh0HVLwdu8zmCk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "111336153658-g1nc1dt07tr19p28l705ncan9uj1pvkq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
